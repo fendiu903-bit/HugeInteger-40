@@ -1,0 +1,8 @@
+﻿  HugeInteger.cpp
+E:\C++\9.14\9.14\HugeInteger.cpp(19,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C++\9.14\9.14\HugeInteger.cpp(213,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+E:\C++\9.14\9.14\main.cpp(1,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码...
+E:\C++\9.14\9.14\HugeInteger.cpp(42,1): warning C4715: “HugeInteger::isNotEqualTo”: 不是所有的控件路径都返回值
+  9.14.vcxproj -> E:\C++\9.14\x64\Debug\9.14.exe
